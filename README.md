@@ -36,10 +36,12 @@ Aplicación en desarrollo cuyo propósito es administrar tareas y notas personal
 (Ver requirements.txt para las versiones exactas.)
 
 ## Autor
-Nombre del estudiante
+Romina Moreno Ramos
 
 ## Estado
 Proyecto en fase inicial: estructura base creada, entorno configurado y documentación en construcción.
 
 ## Colaboración
 Este proyecto acepta contribuciones mediante fork y Pull Request. Antes de proponer un cambio, crea una rama a partir de main, realiza tus modificaciones y describe claramente qué agregaste o corregiste en la descripción del Pull Request.
+
+Como parte de esta colaboración, se agregó el archivo `docs/recomendaciones.md` con propuestas para mejorar futuras versiones del proyecto.
